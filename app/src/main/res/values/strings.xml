@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KmConverter</string>
+    <string name="sisesta">Insert number</string>
+    <string name="miles">Miles to Kilometers</string>
+    <string name="kilometers">Kilometers to Miles</string>
+    <string name="clear">Clear</string>
+    <string name="convert">Convert</string>
+</resources>
